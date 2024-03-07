@@ -1,0 +1,2 @@
+from .declension import DeclensionTextService, DeclensionNameService
+from .declension_exceptions import DeclensionExceptionsService
